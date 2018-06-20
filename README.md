@@ -14,3 +14,5 @@ Ordem correta para olhar os notebooks:
 [5) Analise_Base_Churn: análise dos recursos utilizados pela base Churn na tentativa de entender porque esses usuários cancelaram a assinatura](https://github.com/thamysabrahao/desafio-datascientist-v2/blob/master/Analise_Base_Churn.ipynb)
 
 [6) LTV: análise para calcular o lifetime value dos usuários depois de Novembro/2017](https://github.com/thamysabrahao/desafio-datascientist-v2/blob/master/Lifetime_Value.ipynb)
+
+[7) Análise de coorte](https://github.com/thamysabrahao/desafio-datascientist-v2/blob/master/Analise%20de%20coorte.ipynb)
